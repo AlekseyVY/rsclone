@@ -4,6 +4,7 @@
 
 ## [link to project](https://pensive-villani-2deb2c.netlify.app/)
 
+you can use this credentials -> login: test, password: test.
 
 ### Functionality
 Zoombie survivor shooter game.
