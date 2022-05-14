@@ -12,4 +12,6 @@ Zoombie survivor shooter game.
 - single player campaign.
 - multiplayer deathmatch.
 
+backend for this game: [link to backend code](https://github.com/AlekseyVY/RSClone_backend)
+
 ### coded by Aleksey Vasiliev in collaboration with a team. -> [Join me on my social](https://vk.com/alekseyvy) <-
